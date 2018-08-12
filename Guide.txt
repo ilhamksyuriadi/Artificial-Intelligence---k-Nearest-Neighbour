@@ -1,0 +1,10 @@
+Guide for knnTrain.py
+1. Open it on any python IDE
+2. Run and it will show the accuracy
+3. To observe the value of k, just change it on line 7 of it
+
+Guide for knnTest.py
+1. Open it on any python IDE
+2. Run and it will create a file named Result.xlsx
+4. You can change the value of k on line 7 of it
+5. To see the result with different value of k, delete the exist Result.xlsx file and run the program again
