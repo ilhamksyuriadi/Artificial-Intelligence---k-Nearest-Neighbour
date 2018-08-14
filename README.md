@@ -1,4 +1,4 @@
-# Artificial-Intelligence---k-Nearest-Neighbour
+# Artificial Intelligence - k Nearest Neighbour
 k Nearest Neighbour code example
 
 -Assumption: You already understand the concept of k Nearest Neighbour
