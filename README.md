@@ -11,5 +11,5 @@ k Nearest Neighbour code example
 3. File knnTest.py to identify data from sheet DataTest base on sheet DataTrain
 4. File kknTrain.py and kknTest.py are not related, it can run without the other one
 5. In a nutshell, knnTrain.py for found good value of k and knnTest.py to implement value of k that has been observed before
-6. In many case, people use cross validation for optimum accuracy. In this code i don't use it. this code only show you how k Nearest Neighbour work.
+6. In many case, people use cross validation for reliable accuracy. In this code i don't use it. this code only show you how k Nearest Neighbour work.
 7. Important, read the Guide.txt before run the code
